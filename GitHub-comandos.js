@@ -7,5 +7,5 @@
     git add . - preparar os arquivos para subir para nuvem 
     git status - 
     git commit -m "Mensagem de texto" - O -m é de mensagem
-    git origin master 
+    git push origin master 
 */
